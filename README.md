@@ -13,7 +13,7 @@ pip install topsis-neeraj-102317014-tiet
 
 # 🛠️ Deployment Links
 
-Live Web App: https://topsis-web-service-mcdm.streamlit.app/
+Live Web App: [topsis-service](https://pranshujain26-topsis-web-service-app-r2vreg.streamlit.app/)
 
 PyPI Package: https://pypi.org/project/topsis-neeraj-102317014-tiet/1.0.3/
 
